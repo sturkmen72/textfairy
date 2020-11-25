@@ -151,7 +151,7 @@
     <string name="beta_test_title">Beta test kullanıcısı olun</string>
     <string name="beta_test_text_1">Yeni özellikleri mümkün olan en kısa sürede denemek ister misiniz?</string>
     <string name="beta_test_text_2">Yeni özelliklerin gelişmesinde katkı sağlamak ister misiniz?</string>
-    <string name="enroll_as_beta_tester">Enroll in beta test program.</string>
+    <string name="enroll_as_beta_tester">Beta test programına kaydolun.</string>
     <string name="about">Program hakkında</string>
     <string name="feedback_subject">Text fairy feedback</string>
     <string name="app_version">Versiyon %s</string>
@@ -268,7 +268,7 @@
     <string name="chose_market">Chose Market</string>
     <string name="install_language">Lütfen önce dil yükleyin</string>
     <string name="install">kurulum</string>
-    <string name="no_download_manager">No DownloadManager found.</string>
+    <string name="no_download_manager">İndirme yöneticisi bulunamadı.</string>
     <string name="action_search">Search</string>
     <string name="action_search_languages">dil ara</string>
     <string name="could_not_load_pdf">PDF dosyası yüklenemedi.</string>
