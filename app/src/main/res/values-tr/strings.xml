@@ -2,7 +2,7 @@
 <resources>
     <string name="drawer_open">Ana Menüyü aç</string>
     <string name="drawer_close">Ana Menüyü kapat</string>
-    <string name="whats_new_title">Nelerin değiştiğine bakın</string>
+    <string name="whats_new_title">Nelerin değiştiğine göz atın</string>
     <string name="whats_new">Sürüm notları</string>
     <string name="text_was_copied_to_clipboard">Metin panoya kopyalandı.</string>
     <string name="copy_to_clipboard">Kopyala</string>
@@ -115,13 +115,13 @@
     <string name="show_tips">İpuçlarını görüntüle</string>
     <string name="document_help_title">Belgenizi buradan yönetebilirsiniz.</string>
     <string name="join">Join</string>
-    <string name="join_documents_title">Joining Documents</string>
-    <string name="join_documents_result">%1$d documents joined</string>
+    <string name="join_documents_title">Belgeleri birleştirme</string>
+    <string name="join_documents_result">%1$d belge birleştirildi</string>
     <string name="start_app">Hadi başlayalım</string>
     <string name="install_error_disk_space">Yeterli disk alanı yok. SD kartınızda %1$d MB
         alan açmanız gerekiyor
     </string>
-    <string name="install_error">Yapılandırma dosyaları yüklenemedi./string>
+    <string name="install_error">Yapılandırma dosyaları yüklenemedi.</string>
     <string name="toc_title">İçindekiler</string>
     <string name="document_list_help_title">Taranan belgelerinizi burada yönetin.</string>
     <string name="toc_help_title">Burada belgedeki tüm sayfaların bir listesini görüyorsunuz</string>
@@ -195,7 +195,7 @@
     <string name="youtube_promo_link">https://youtu.be/vUmZnwyLH6I</string>
     <string name="greeting">Merhaba</string>
     <string name="text_is_in">"Metin dili: "</string>
-    <string name="empty_grid_language">Birkaç dil kullanıma hazır, ancak daha fazla dil indirebilirsiniz.
+    <string name="empty_grid_language">Bazı diller kullanıma hazır, ancak daha fazla dil indirebilirsiniz.
     </string>
     <string name="error_tess_init">OCR Hatası. Lütfen programı yeniden kurun yada dil dosyalarını
         güncelleyin.
@@ -215,7 +215,7 @@
     <string name="love_it">Love it!</string>
     <string name="could_be_better">Daha iyi olabilir</string>
     <string name="continue_editing">Devam et</string>
-    <string name="feedback_description">How was your experience using this app?</string>
+    <string name="feedback_description">Bu uygulamayı kullanma deneyiminiz nasıldı?</string>
     <string name="first_time_bad_result">Lütfen ipuçlarını okuyun veya bana geri bildiriminizi gönderin.
         Sana yardım etmeye çalışacağım.
     </string>
@@ -226,28 +226,28 @@
     <string name="document_scanned_as">Belge dili şu şekilde ayarlandı: %s.</string>
     <string name="delete_whole_document">Belge silinsin mi?</string>
     <string name="delete_document_message">Bütün sayfalar silinecek.</string>
-    <string name="permission_explanation">I need permission to read and write to your SD card. I
-        will access the folder texfee which contains my configuration file and your scanned
-        documents.
+    <string name="permission_explanation">SD kartınızı okumak ve ona yazmak için izne ihtiyacım var.
+        Yapılandırma dosyamı ve taranan belgelerinizi içeren texfee klasörüne
+         erişeceğim.
     </string>
-    <string name="permission_explanation_install">I need permission to write my configuration files
-        to your SD
-        card. I will only access the folder textfee which will also contain your scanned documents
-        later.
+    <string name="permission_explanation_install">Yapılandırma dosyalarımı SD kartınıza yazmak için
+        izne ihtiyacım var.
+        Yalnızca daha sonra taranan belgelerinizi de içerecek olan
+        textfee klasörüne erişeceğim.
     </string>
     <string name="no_gallery_found">Galeri uygulaması bulunamadı.</string>
-    <string name="install_tip_1">Net ve açık resimlerde en iyi sonucu alırsınız.
+    <string name="install_tip_1">Bulanık olmayan ve net resimlerde en iyi sonucu alırsınız.
     </string>
     <string name="install_tip_2">El yazısını <b>okuyamam</b>.</string>
     <string name="pref_title_privacy">Gizlilik Politikası</string>
-    <string name="pref_summary_privacy">View the privacy policy</string>
-    <string name="install_tip_3">Resimlerden metin çıkarıyorum. Fakat
-        hemen terüme
+    <string name="pref_summary_privacy">Gizlilik politikamızı inceleyin</string>
+    <string name="install_tip_3">Kameradan alınan görüntüler üzerinden yada mevcut resimlerden
+         metinleri çözümleyebilirim fakat tercüme
         <b>edemem</b>
     </string>
-    <string name="data_tracking_on">"I'm tracking anonymous usage data."</string>
+    <string name="data_tracking_on">"Anonim kullanım verileri izlenir."</string>
     <string name="data_tracking_off">Anonim kullanım verileri izlenmez.</string>
-    <string name="no_mail_app">No mail app found.</string>
+    <string name="no_mail_app">Mail uygulaması bulunamadı.</string>
     <string name="memory_low">Düşük hafıza</string>
     <string name="memory_low_description">Cihaz hafızası sadece %d MB kullanılabilir. Lütfen bazı uygulamaları
         kapatın yada cihazınızı yeniden başlatın.
@@ -266,17 +266,17 @@
     <string name="volume_is_off">Volume is off</string>
     <string name="install_tts_prompt">Önce metin seslendirme özelliğini yüklemeniz gerekir.</string>
     <string name="chose_market">Chose Market</string>
-    <string name="install_language">Please install a language first</string>
+    <string name="install_language">Lütfen önce dil yükleyin</string>
     <string name="install">kurulum</string>
     <string name="no_download_manager">No DownloadManager found.</string>
     <string name="action_search">Search</string>
     <string name="action_search_languages">dil ara</string>
-    <string name="could_not_load_pdf">Could not load PDF.</string>
-    <string name="notification_scanning_title">scanning %1$s</string>
+    <string name="could_not_load_pdf">PDF dosyası yüklenemedi.</string>
+    <string name="notification_scanning_title">taranıyor %1$s</string>
     <string name="notification_channel_title">Scanning progress</string>
-    <string name="scan_pdf_title">You\'re ready to scan %1$d pages.</string>
-    <string name="scan_pdf_explanation_1">It might take a while, you can close the app in the meantime.</string>
-    <string name="scan_pdf_explanation_2">You\'ll be notified when the scanning is complete.</string>
-    <string name="scanning_pdf_progress">Page %1$d of %2$d</string>
-    <string name="scanning_multiple_title">Scanning %1$d files</string>
+    <string name="scan_pdf_title">%1$d sayfanın taranması için hazırsınız.</string>
+    <string name="scan_pdf_explanation_1">Biraz zaman alabilir, bu arada uygulamayı kapatabilirsiniz.</string>
+    <string name="scan_pdf_explanation_2">Tarama tamamlandığında bilgilendirileceksiniz.</string>
+    <string name="scanning_pdf_progress">Sayfa %1$d of %2$d</string>
+    <string name="scanning_multiple_title">%1$d dosya taranıyor</string>
 </resources>
