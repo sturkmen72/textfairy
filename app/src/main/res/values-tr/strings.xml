@@ -58,12 +58,12 @@
         üzerine kaydedemedim.
     </string>
     <string name="share_subject">taranmış metin</string>
-    <string name="save_success">Save successful</string>
-    <string name="save_fail">Save failed!</string>
+    <string name="save_success">Kayıt başarılı</string>
+    <string name="save_fail">Kayıt başarısız!</string>
     <string name="share_chooser_title">Metni nasıl paylaşmak istediğinizi seçin</string>
     <string name="progress_start">Starting</string>
-    <string name="download_language">Download</string>
-    <string name="empty_grid_download_language">Download your language.</string>
+    <string name="download_language">İndir</string>
+    <string name="empty_grid_download_language">Desteklenen Diller</string>
     <string name="progress_dewarp">Straightening text</string>
     <string name="progress_ocr">Reading text</string>
     <string name="delete">Sil</string>
@@ -80,7 +80,7 @@
     <string name="document_layout_dialog">Kaç sütun var?</string>
     <string name="layout_complex">Birden fazla sütun.</string>
     <string name="layout_simple">Tek sütun.</string>
-    <string name="saving_document">Saving Document</string>
+    <string name="saving_document">Belgeyi Kaydetme</string>
     <string name="button_column_pick_completed">metin tanımayı başlat</string>
     <string name="export_as_pdf">PDF</string>
     <string name="delete_language_title">Delete %1$s?</string>
@@ -112,12 +112,12 @@
     <string name="edit_title_hint">Enter a title</string>
     <string name="option_gallery_title">Pick an image from the gallery</string>
     <string name="option_camera_title">Make a new photo</string>
-    <string name="show_tips">Show tips</string>
+    <string name="show_tips">İpuçlarını görüntüle</string>
     <string name="document_help_title">Belgenizi buradan yönetebilirsiniz.</string>
     <string name="join">Join</string>
     <string name="join_documents_title">Joining Documents</string>
     <string name="join_documents_result">%1$d documents joined</string>
-    <string name="start_app">Let\'s go</string>
+    <string name="start_app">Hadi başlayalım</string>
     <string name="install_error_disk_space">Yeterli disk alanı yok. You need to free %1$d MB on your
         SD card
     </string>
@@ -126,7 +126,7 @@
     <string name="document_list_help_title">Taranan belgelerinizi burada yönetin.</string>
     <string name="toc_help_title">Burada belgedeki tüm sayfaların bir listesini görüyorsunuz</string>
     <string name="crop_help_title">Şimdi fotoğrafınızı kırpabilir ve döndürebilirsiniz</string>
-    <string name="continue_ocr">Continue</string>
+    <string name="continue_ocr">Devam et</string>
     <string name="start_speaking">Speak text</string>
     <string name="ocr_result_is_bad">Oops. Bir şeyler doğru görünmüyor.</string>
     <string name="ocr_result_is_ok">Sanırım metnin çoğunu aldım.</string>
@@ -139,18 +139,18 @@
     <string name="empty_grid_gallery">Metni mevcut bir görüntüden dönüştürmek için buraya dokunun.</string>
     <string name="empty_grid_fairy">Not: Daha fazla bilgi için periye dokunun.</string>
     <string name="contribute_title">Uygulamayı geliştirin</string>
-    <string name="contribute_text">Bir OCR uygulaması oluşturmak büyük bir iştir. Ancak uygulamayı
+    <string name="contribute_text">Bir OCR uygulaması oluşturmak büyük emek isteyen bir iştir. Ancak uygulamayı
         geliştirmeme yardım edebilirsiniz.
     </string>
-    <string name="rating_title">Rate the app</string>
-    <string name="rating_text">Uygulama sizin için yararlı mı? Play Store'da inceleyin.</string>
-    <string name="feedback_title">Geribildirim yolla</string>
+    <string name="rating_title">Uygulamayı değerlendirin</string>
+    <string name="rating_text">Uygulama sizin için yararlı mı? Play Store'da bizi değerlendirin.</string>
+    <string name="feedback_title">Geri bildirim yolla</string>
     <string name="feedback_text_1">Uygulama beklendiği gibi çalışmıyor mu?</string>
     <string name="feedback_text_2">Bir özellik öneriniz mi var?</string>
-    <string name="feedback_text_3">Kötü bir böcek mi buldunuz?</string>
+    <string name="feedback_text_3">Kötü bir bug mı buldunuz?</string>
     <string name="beta_test_title">Beta test kullanıcısı olun</string>
     <string name="beta_test_text_1">Yeni özellikleri mümkün olan en kısa sürede denemek ister misiniz?</string>
-    <string name="beta_test_text_2">Influence development of new features?</string>
+    <string name="beta_test_text_2">Yeni özelliklerin gelişmesinde katkı sağlamak ister misiniz?</string>
     <string name="enroll_as_beta_tester">Beta test programına kaydolun.</string>
     <string name="about">Program hakkında</string>
     <string name="feedback_subject">Text fairy feedback</string>
