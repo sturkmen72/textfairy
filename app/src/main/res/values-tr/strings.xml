@@ -113,43 +113,43 @@
     <string name="option_gallery_title">Pick an image from the gallery</string>
     <string name="option_camera_title">Make a new photo</string>
     <string name="show_tips">İpuçlarını görüntüle</string>
-    <string name="document_help_title">You can manage your document here.</string>
+    <string name="document_help_title">Belgenizi buradan yönetebilirsiniz.</string>
     <string name="join">Join</string>
     <string name="join_documents_title">Joining Documents</string>
     <string name="join_documents_result">%1$d documents joined</string>
     <string name="start_app">Hadi başlayalım</string>
-    <string name="install_error_disk_space">Not enough disk space. You need to free %1$d MB on your
-        SD card
+    <string name="install_error_disk_space">Yeterli disk alanı yok. SD kartınızda %1$d MB
+        alan açmanız gerekiyor
     </string>
-    <string name="install_error">Could not install configuration files.</string>
+    <string name="install_error">Yapılandırma dosyaları yüklenemedi./string>
     <string name="toc_title">İçindekiler</string>
-    <string name="document_list_help_title">Manage your scanned documents here.</string>
+    <string name="document_list_help_title">Taranan belgelerinizi burada yönetin.</string>
     <string name="toc_help_title">Burada belgedeki tüm sayfaların bir listesini görüyorsunuz</string>
-    <string name="crop_help_title">You can crop and rotate your photo now</string>
+    <string name="crop_help_title">Şimdi fotoğrafınızı kırpabilir ve döndürebilirsiniz</string>
     <string name="continue_ocr">Devam et</string>
     <string name="start_speaking">Speak text</string>
     <string name="ocr_result_is_bad">Oops. Bir şeyler doğru görünmüyor.</string>
-    <string name="ocr_result_is_ok">I think i got most of the text.</string>
+    <string name="ocr_result_is_ok">Sanırım metnin çoğunu aldım.</string>
     <string name="ocr_result_is_good">Herşey yolunda</string>
     <string name="tts_init_error">Text to speech could not load.</string>
     <string name="choose_language">Pick a language for text to speech.</string>
     <string name="share_text">Paylaş</string>
-    <string name="help_to_improve">Feedback</string>
+    <string name="help_to_improve">Geri bildirim</string>
     <string name="empty_grid_camera">Kameradan alınan görüntü üzerinde metin taramak için buraya dokunun.</string>
-    <string name="empty_grid_gallery">Tap here to convert text from an existing image.</string>
+    <string name="empty_grid_gallery">Mevcut olan bir görüntü üzerinde metin taramak için buraya dokunun.</string>
     <string name="empty_grid_fairy">Not: Daha fazla bilgi için periye dokunun.</string>
-    <string name="contribute_title">Improve the app</string>
+    <string name="contribute_title">Uygulamayı geliştirin</string>
     <string name="contribute_text">Bir ( OCR ) Optik Karakter Tanıma uygulaması oluşturmak büyük emek isteyen bir iştir. Ancak uygulamayı
         geliştirmeme yardım edebilirsiniz.
     </string>
     <string name="rating_title">Uygulamayı değerlendirin</string>
-    <string name="rating_text">The app is useful to you? Review it on the Play Store.</string>
+    <string name="rating_text">Uygulama sizin için yararlı mı? Play Store\'da bizi değerlendirin.</string>
     <string name="feedback_title">Geri bildirim yolla</string>
-    <string name="feedback_text_1">The app is not working as expected?</string>
+    <string name="feedback_text_1">Uygulama beklendiği gibi çalışmıyor mu?</string>
     <string name="feedback_text_2">Bir özellik öneriniz mi var?</string>
-    <string name="feedback_text_3">You found a nasty bug?</string>
+    <string name="feedback_text_3">Kötü bir bug mı buldunuz?</string>
     <string name="beta_test_title">Beta test kullanıcısı olun</string>
-    <string name="beta_test_text_1">Try new features as soon as possible?</string>
+    <string name="beta_test_text_1">Yeni özellikleri mümkün olan en kısa sürede denemek ister misiniz?</string>
     <string name="beta_test_text_2">Yeni özelliklerin gelişmesinde katkı sağlamak ister misiniz?</string>
     <string name="enroll_as_beta_tester">Enroll in beta test program.</string>
     <string name="about">Program hakkında</string>
