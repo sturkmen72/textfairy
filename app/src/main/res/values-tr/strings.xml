@@ -7,16 +7,16 @@
     <string name="text_was_copied_to_clipboard">Metin panoya kopyalandı.</string>
     <string name="copy_to_clipboard">Kopyala</string>
     <string name="image_could_not_be_read">The image was not found in the data sent.</string>
-    <string name="image_does_not_exist">The image was not found on your phone.</string>
+    <string name="image_does_not_exist">Resim telefonunuzda bulunamadı.</string>
     <string name="camera_app_not_found">Kamera uygulaması bulunamadı.</string>
-    <string name="gallery_io_error">Image could not be loaded.</string>
-    <string name="media_store_returned_null">Gallery returned no image to me.</string>
+    <string name="gallery_io_error">Görüntü yüklenemedi.</string>
+    <string name="media_store_returned_null">Galeri bana hiç resim döndürmedi.</string>
     <string name="camera_app_error">Kamera uygulaması hatası.</string>
     <string name="camera_no_image_returned">Kamera uygulamasından resim alınamadı.</string>
     <string name="please_wait">Lütfen bekleyin</string>
     <string name="loading_image">Resim yükleniyor..</string>
-    <string name="please_tap_on_column">Please tap on a text column first</string>
-    <string name="send_mail">Bana yaz.</string>
+    <string name="please_tap_on_column">Lütfen önce bir metin sütununa dokunun</string>
+    <string name="send_mail">Bana yazın.</string>
     <string name="hocr2pdf_title">
         <a href="http://www.exactcode.com/site/open_source/exactimage/hocr2pdf/">hocr2pdf</a>
         from exactCODE
@@ -35,8 +35,8 @@
     <string name="tesseract_ocr_title">
         <a href="https://github.com/tesseract-ocr/tesseract">tesseract-ocr</a>
     </string>
-    <string name="tesseract_ocr_summary">Tesseract is probably the most accurate open source OCR
-        engine available.
+    <string name="tesseract_ocr_summary">Tesseract muhtemelen mevcutlar içinde en doğru sonuçlar veren
+         açık kaynak (OCR) Optik Karakter Tanıma motorudur.
     </string>
     <string name="contact_welcome_text">Merhaba benim adım Renard. Text Fairy programını
         boş zamanlarımda kodladım. Umarım sizin için faydalı olmuştur.
@@ -47,11 +47,11 @@
     <string name="ocr_language_delete">Sil</string>
     <string name="ocr_language_title">Desteklenen Diller</string>
     <string name="pref_summary_rate">Programı değerlendirin</string>
-    <string name="pref_summary_license">Learn about the software that was used to create the Text
-        Fairy.
+    <string name="pref_summary_license">Text Fairy programını oluşturmak için kullanılan yazılımlar
+        hakkında bilgi edinin.
     </string>
     <string name="pref_summary_contact">Programcı hakkında bilgi edinin ve geri bildirim sağlayın.</string>
-    <string name="pref_title_help">İpuçları görüntüle</string>
+    <string name="pref_title_help">İpuçlarını görüntüle</string>
     <string name="pref_title_contact">İletişim Bilgisi</string>
     <string name="pref_title_license">Lisans Bilgisi</string>
     <string name="error_create_file">Üzgünüm ama fotoğrafınızı SD kart 
@@ -61,11 +61,11 @@
     <string name="save_success">Kayıt başarılı</string>
     <string name="save_fail">Kayıt başarısız!</string>
     <string name="share_chooser_title">Metni nasıl paylaşmak istediğinizi seçin</string>
-    <string name="progress_start">Starting</string>
+    <string name="progress_start">Başlıyor</string>
     <string name="download_language">İndir</string>
     <string name="empty_grid_download_language">Desteklenen Diller</string>
-    <string name="progress_dewarp">Straightening text</string>
-    <string name="progress_ocr">Reading text</string>
+    <string name="progress_dewarp">Metni düzeltme</string>
+    <string name="progress_ocr">Metin okuma</string>
     <string name="delete">Sil</string>
     <string name="edit_title">Başlığı değiştir</string>
     <string name="cancel">İptal</string>
