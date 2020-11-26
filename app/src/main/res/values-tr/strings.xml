@@ -212,7 +212,7 @@
     </string>
     <string name="nav_drawer_download_language">Dil ekle</string>
     <string name="first_scan_successful">Tebrikler, iyi iş çıkardın.</string>
-    <string name="love_it">Love it!</string>
+    <string name="love_it">Beğendim!</string>
     <string name="could_be_better">Daha iyi olabilir</string>
     <string name="continue_editing">Devam et</string>
     <string name="feedback_description">Bu uygulamayı kullanma deneyiminiz nasıldı?</string>
@@ -263,13 +263,13 @@
     </string>
     <string name="translate">Tercüme et</string>
     <string name="stop_speaking">Konuşmayı durdur</string>
-    <string name="volume_is_off">Volume is off</string>
+    <string name="volume_is_off">Ses kapalı</string>
     <string name="install_tts_prompt">Önce metin seslendirme özelliğini yüklemeniz gerekir.</string>
     <string name="chose_market">Chose Market</string>
     <string name="install_language">Lütfen önce dil yükleyin</string>
     <string name="install">kurulum</string>
     <string name="no_download_manager">İndirme yöneticisi bulunamadı.</string>
-    <string name="action_search">Search</string>
+    <string name="action_search">Ara</string>
     <string name="action_search_languages">dil ara</string>
     <string name="could_not_load_pdf">PDF dosyası yüklenemedi.</string>
     <string name="notification_scanning_title">taranıyor %1$s</string>
